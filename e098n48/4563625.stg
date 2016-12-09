@@ -1,1 +1,6 @@
 OBJECT_SHARED Models/Airport/ndb.ac 98.256808 48.740697 1708.12 180
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 98.27435 48.74094 1708.06 291.11
+# END dsf2stg

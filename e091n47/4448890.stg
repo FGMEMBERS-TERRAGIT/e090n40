@@ -1,2 +1,7 @@
 OBJECT_SHARED Models/Airport/ndb.ac 91.655331 47.908231 1566.07 180
 OBJECT_SHARED Models/Airport/ndb.ac 91.655331 47.932722 1517.52 180
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/cargoip.xml 91.62658 47.96286 1453.34 328.698
+# END dsf2stg
